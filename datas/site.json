@@ -1,0 +1,17 @@
+{
+  "name": "Wu1f Notes",
+  "slogan": "Notes personnelles",
+  "menu": [
+    {
+      "txt": "Code",
+      "url": "category.html?o=code",
+      "target": "_self"
+    },
+	{
+      "txt": "Aquarium",
+      "url": "category.html?o=aquarium",
+      "target": "_self"
+    }
+  ]
+  
+}
